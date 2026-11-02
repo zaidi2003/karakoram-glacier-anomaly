@@ -4,4 +4,8 @@
 *.csv
 *.json
 wgms-amce-2026-02-10/
+RGI2000-v7.0-G-11_central_europe/
+RGI2000-v7.0-G-14_south_asia_west/
 __pycache__/
+*.env
+*.gpkg
