@@ -1,0 +1,7 @@
+# ignore all csv files
+
+
+*.csv
+*.json
+wgms-amce-2026-02-10/
+__pycache__/
